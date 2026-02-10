@@ -1,0 +1,2 @@
+[10-Feb-2026 00:38:31 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Midterm/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[10-Feb-2026 00:38:44 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Midterm/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
